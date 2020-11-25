@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.exe
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.deps.json
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.dll
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\bin\Debug\netcoreapp3.1\Conjuntos-csharp.pdb
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.dll
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.pdb
+C:\Users\estoque.bhe\source\repos\conjuntos-csharp\Conjuntos-csharp\obj\Debug\netcoreapp3.1\Conjuntos-csharp.genruntimeconfig.cache
